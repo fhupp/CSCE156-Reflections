@@ -16,7 +16,7 @@ When `array1` gets initialized it loads something similar to the following onto
 the heap, and gives us a pointer / reference to it.
 
  0 | 1 | 2
- - | - | -
+---|---|---
 71 | 2 | 3
 
 So when `array2` is set to `array1`, we merely are copying the pointer rather
