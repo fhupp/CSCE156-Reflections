@@ -1,1 +1,1 @@
-Repository containing the reflecton assignments for CSCE 156.
+Repository containing the reflection assignments for CSCE 156.
